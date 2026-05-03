@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823341584507",
+    "project_id": "tmapjj",
+    "storage_bucket": "tmapjj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823341584507:android:391a06bb6bdc0ac91fd2de",
+        "android_client_info": {
+          "package_name": "com.example.tmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdkuA_k8aNPTTjzQx2TU4KLtZnHa2lwpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
